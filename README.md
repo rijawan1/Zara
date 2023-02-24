@@ -69,19 +69,7 @@ Users have to provide OTP to verify their order which they received on their reg
 ## Responsive :
 Our website is responsive as well.
 
-## Contributors :
 
-1. Anjum Ara : https://github.com/anjumara07
-
-2. Divyansh Singh Sikarwar : https://github.com/divyansh050
-
-3. Himanshu Sharma : https://github.com/sharmahimansh007
-
-4. Hitendra Mali : https://github.com/h1t3ndr4
-
-5. Rohit : https://github.com/Rohitb1107
-
-6. Babli kumari : https://github.com/bablikumari2
 
 
 ## Our blog link :
